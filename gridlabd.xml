@@ -30,7 +30,7 @@
 	<xml_encoding>8</xml_encoding>
 	<clock>2000-01-01 00:00:00 EST</clock>
 	<starttime>2000-01-01 00:00:00 EST</starttime>
-	<stoptime>2000-01-01 00:00:01 EST</stoptime>
+	<stoptime>2000-01-01 00:30:00 EST</stoptime>
 	<double_format>%+lg</double_format>
 	<complex_format>%+lg%+lg%c</complex_format>
 	<complex_output_format>DEFAULT</complex_output_format>
@@ -43,7 +43,7 @@
 	<strictnames>TRUE</strictnames>
 	<website>http://www.gridlabd.org/</website>
 	<urlbase>http://www.gridlabd.org/</urlbase>
-	<randomseed>310390484</randomseed>
+	<randomseed>1311666044</randomseed>
 	<include>""</include>
 	<trace>""</trace>
 	<gdb_window>FALSE</gdb_window>
@@ -4944,7 +4944,7 @@
 				<name>recorder:52</name>
 				<property>voltage_C</property>
 				<trigger>""</trigger>
-				<file>../data/raw_normal.csv</file>
+				<file>C:/Users/Surya/OneDrive/Desktop/qkd-grid-anomaly/data/raw_normal.csv</file>
 				<filetype>txt</filetype>
 				<mode>file</mode>
 				<multifile>""</multifile>
